@@ -18,3 +18,4 @@ Usage:- Clone the repository to your local machine.
 Future Improvements:- Implementing additional operations (e.g., exponentiation, square root).
                       Adding a graphical user interface  for better userinteraction.
                       Extending functionality to support more complex calculations.
+![kk2](https://github.com/user-attachments/assets/2ac4e07a-ae01-489b-8485-ef060caa3296)
